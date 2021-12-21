@@ -1,1 +1,1 @@
-console.log("Hotdog");
+console.log("Hotdog 1");
